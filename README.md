@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmudul%20Hasan&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Junior%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmudul%20Hasan&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Junior%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" /> -->
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)](https://mahmudulhasanzb.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://linkedin.com/in/mahmudulhasanzb)&nbsp;
@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](mailto:[mahmudulhasankk9@gmail.com])
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b6J60Ig0KlOXgCH6w6f8GRjYyTw65-N4/view?usp=drivesdk)
 
-</div>
+</div> -->
 
 ---
 
@@ -32,7 +32,7 @@
 <td width="55%" valign="top">
 
 ```javascript
-const mahmudul = {
+const ovijet = {
     location: "📍 Bangladesh",
     role: "Junior Web Developer",
     focus: "Building modern web applications",
@@ -112,11 +112,11 @@ interfaces
 ## 📊 GitHub Stats
 
 <div align="center"> 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudulhasanzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ovijethalderzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
 </div>
 
 <div align="center"> 
-    <img src="https://streak-stats.demolab.com/?user=mahmudulhasanzb&theme=tokyonight&hide_border=true&background=0D1117&ring=9D8FFF&fire=C084FC&currStreakLabel=E0D7FF&sideLabels=E0D7FF&dates=A89FD4" /> 
+    <img src="https://streak-stats.demolab.com/?user=ovijethalderzb&theme=tokyonight&hide_border=true&background=0D1117&ring=9D8FFF&fire=C084FC&currStreakLabel=E0D7FF&sideLabels=E0D7FF&dates=A89FD4" /> 
 </div>
 
 ---
@@ -125,7 +125,7 @@ interfaces
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudulhasanzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com/mahmudulhasanzb)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovijethalderzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com)
 
 </div>
 
@@ -135,8 +135,8 @@ interfaces
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/mahmudulhasanzb/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/mahmudulhasanzb) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-0f0c29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-0f0c29?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/your-username) 
 
 ---
@@ -150,9 +150,9 @@ interfaces
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)](https://linkedin.com/in/mahmudulhasanzb) 
-[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)](mailto:[mahmudulhasankk9@gmail.com]) 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)](https://mahmudulhasanzb.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=9D8FFF)]() 
+[![Email](https://img.shields.io/badge/Send%20an%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=9D8FFF)]() 
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f0c29?style=for-the-badge&logo=firefox&logoColor=9D8FFF)]()
 
 </div>
 
@@ -167,7 +167,7 @@ interfaces
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahmudulhasanzb&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ovijetzb&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
