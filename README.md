@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmudul%20Hasan&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Junior%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" /> -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ovijet%20Halder&fontSize=52&fontColor=e0d7ff&fontAlignY=38&desc=Junior%20Web%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=a89fd4&animation=fadeIn" />
 
 </div>
 
 <br/>
 
-<!-- <div align="center">
+ <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)](https://mahmudulhasanzb.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://linkedin.com/in/mahmudulhasanzb)&nbsp;
-[![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=e0d7ff)](https://github.com/mahmudulhasanzb)&nbsp;
-[![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](mailto:[mahmudulhasankk9@gmail.com])
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)]()&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)]()&nbsp;
+[![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=e0d7ff)]()&nbsp;
+[![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)]()
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b6J60Ig0KlOXgCH6w6f8GRjYyTw65-N4/view?usp=drivesdk)
 
-</div> -->
+</div>
 
 ---
 
@@ -51,7 +51,7 @@ const mission = () => {
 
 </td>
 
-<!-- <td width="45%" valign="top">
+ <td width="45%" valign="top">
 
 ### 🎯 What I Do
 
@@ -66,7 +66,7 @@ interfaces
 
 🤝 **Open to Collaboration** Ready to work on impactful products and teams
 
-</td> -->
+</td>
 
 </tr>
 </table>
@@ -112,7 +112,7 @@ interfaces
 ## 📊 GitHub Stats
 
 <div align="center"> 
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ovijethalderzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudulhasanzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ovijethalderzb&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&icon_color=c084fc&text_color=e0d7ff" height="170" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ovijethalderzb&layout=compact&theme=radical&langs_count=6&hide_border=true&bg_color=0f0c29&title_color=9D8FFF&text_color=e0d7ff" height="170" />
 </div>
 
 <div align="center"> 
