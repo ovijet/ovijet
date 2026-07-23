@@ -125,7 +125,7 @@ interfaces
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovijethalderzb&bg_color=0f0c29&color=9D8FFF&line=7c3aed&point=c084fc&area=true&area_color=302b63&hide_border=true)](https://github.com)
+[![Ovijet's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ovijet&theme=tokyo-night)](https://github.com/ovijet)
 
 </div>
 
