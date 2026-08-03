@@ -8,11 +8,11 @@
 
  <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)]()&nbsp;
+[![Portfolio](https://img.shields.io/badge/◈%20Portfolio-0f0c29?style=for-the-badge&logoColor=e0d7ff)](https://my-portfolio-nine-virid-85.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=e0d7ff)](https://www.linkedin.com/in/ovijit-halder-1b26a9252/) &nbsp;
 [![GitHub](https://img.shields.io/badge/◈%20GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=e0d7ff)](https://github.com/ovijet) &nbsp;
 [![Email](https://img.shields.io/badge/◈%20Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=e0d7ff)](ovijethalder143@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]()
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/101anJk95plcFVzrsPxgKFnVIxCgWHc2C/view)
 
 </div>
 
