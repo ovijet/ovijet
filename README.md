@@ -33,7 +33,7 @@
 
 ```javascript
 const ovijet = {
-    location: "📍 Bangladesh",
+    location: "📍Khulna Bangladesh",
     role: "Junior Web Developer",
     focus: "Building modern web applications",
     experience: "Working on real-world projects",
