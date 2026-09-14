@@ -1,111 +1,113 @@
-<!-- ===================== BANNER ===================== -->
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:130f40,50:4834d4,100:686de0&height=220&section=header&text=OVIJIT%20HALDER&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
-</p>
+# 🚀 Featured Projects
 
-<!-- ===================== TYPING ===================== -->
+## 📚 LessonVault
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8D6F69&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;MERN+Stack+Developer;Full+Stack+Developer;Building+Modern+Web+Applications" />
-</p>
+A full-stack learning platform with free and premium lessons, authentication, payment integration and user/admin dashboards.
 
-<p align="center">
-  <a href="https://github.com/ovijet">
-    <img src="https://komarev.com/ghpvc/?username=ovijet&label=Profile%20Views&color=6c5ce7&style=flat" />
-  </a>
-  <img src="https://img.shields.io/github/followers/ovijet?label=Followers&style=flat&color=6c5ce7" />
-  <img src="https://img.shields.io/github/stars/ovijet?label=Stars&style=flat&color=6c5ce7" />
-</p>
+**Tech:** Next.js, React, Tailwind CSS, Express.js, MongoDB, Better Auth, Stripe
+
+🔗 **Live:** https://lesson-vault-client-ten.vercel.app/  
+🔗 **GitHub:** https://github.com/ovijet/lesson-vault-client
 
 ---
 
-# 👋 Hi, I'm Ovijit Halder
+## 📖 StudyNook
 
-### 💻 Frontend Developer | MERN Stack Developer
+A library study-room booking platform where users can view available slots and reserve study rooms while preventing double bookings.
 
-I'm a passionate **Frontend Developer with 1 year of hands-on
-experience** building modern, responsive and user-friendly web
-applications.
+**Tech:** Next.js, React, Tailwind CSS, HeroUI, Express.js, MongoDB, Better Auth
 
-I specialize in **React.js, Next.js, JavaScript, TypeScript and
-Tailwind CSS**, with practical experience in **Node.js, Express.js,
-MongoDB and PostgreSQL**.
-
-I enjoy turning ideas into real-world applications with clean UI,
-scalable code and a great user experience.
+🔗 **Live:** https://a9-study-nook.vercel.app/  
+🔗 **GitHub:** https://github.com/ovijet/A9-studyNook-
 
 ---
 
-## 🚀 About Me
+## 🌾 KrishiHaat
 
-- 💼 **1 Year of Hands-on Development Experience**
-- ⚛️ Specialized in **React.js & Next.js**
-- 🧑‍💻 MERN Stack Developer
-- 🎨 Love building modern & responsive UI
-- 🔗 Experienced in REST API integration
-- 🔐 Authentication & Authorization
-- 🗄️ MongoDB & PostgreSQL
-- 💳 Payment integration with Stripe
-- 🚀 Deployment with Vercel
-- 🧪 API testing with Postman
-- 🌱 Currently improving my Full Stack Development skills
-- 🤝 Open to collaboration and exciting opportunities
+A Bangla agriculture-focused platform designed to connect farmers, buyers and agricultural service providers.
+
+**Tech:** Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB
+
+🚧 **Currently Developing**
 
 ---
 
-# 🛠️ Tech Stack
+# 💼 Experience
 
-## 🎨 Frontend
+### Frontend Developer
+**1 Year Hands-on Experience**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
-</p>
-
-## ⚙️ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" />
-</p>
-
-## 🗄️ Database & ORM
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&perline=8" />
-</p>
-
-## 🔐 Authentication & Security
-
-<p align="center">
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge)
-
-</p>
-
-## 🧰 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=8" />
-</p>
+- Developed responsive and user-friendly web applications.
+- Built reusable React.js components.
+- Developed modern interfaces using Next.js and Tailwind CSS.
+- Integrated REST APIs with frontend applications.
+- Worked with authentication and authorization systems.
+- Built CRUD-based applications and dashboards.
+- Integrated MongoDB and PostgreSQL databases.
+- Implemented payment functionality using Stripe.
+- Deployed applications using Vercel.
+- Tested APIs using Postman.
 
 ---
 
-# 💡 What I Can Do
+# 🎓 Education
+
+### Jessore Polytechnic Institute
+**Diploma in Computer Science & Engineering**
+
+**CGPA:** 3.25
+
+### Noapara Govt. High School
+
+**SSC GPA:** 4.25
+
+---
+
+# 📚 Training
+
+### Programming Hero — Complete Web Development Course
+
+**Batch 13**
+
+Successfully completed the Complete Web Development Course and achieved **BlackBelt Web Developer** recognition.
+
+### Technologies Learned
+
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 🌱 Currently Learning
+
+- TypeScript
+- Advanced Next.js
+- PostgreSQL
+- Prisma
+- Backend Architecture
+- API Security
+- System Design
+- Performance Optimization
+- Clean Code & Scalable Architecture
+
+---
+
+# 🧠 Development Approach
 
 ```text
-✔ Responsive Web Design
-✔ React.js Development
-✔ Next.js Development
-✔ REST API Development
-✔ Full Stack Web Applications
-✔ Authentication & Authorization
-✔ CRUD Applications
-✔ MongoDB Database Integration
-✔ PostgreSQL & Prisma
-✔ Payment Integration
-✔ API Integration
-✔ Dashboard Development
-✔ Admin Panel Development
-✔ Vercel Deployment
+💡 Understand the Problem
+        ↓
+🎨 Design the UI
+        ↓
+⚛️ Build Reusable Components
+        ↓
+🔗 Integrate APIs
+        ↓
+🗄️ Connect Database
+        ↓
+🔐 Implement Authentication
+        ↓
+🧪 Test & Debug
+        ↓
+🚀 Deploy
