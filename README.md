@@ -1,82 +1,111 @@
-# Hi, I'm Ovijit Halder 👋
+<!-- ===================== BANNER ===================== -->
 
-### Frontend Developer | MERN Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:130f40,50:4834d4,100:686de0&height=220&section=header&text=OVIJIT%20HALDER&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
+</p>
 
-I'm a passionate Frontend Developer with 1 year of hands-on experience
-building modern, responsive and user-friendly web applications.
+<!-- ===================== TYPING ===================== -->
 
-I mainly work with React.js, Next.js, JavaScript, TypeScript and Tailwind CSS.
-I also have experience building backend APIs using Node.js, Express.js and MongoDB.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8D6F69&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;MERN+Stack+Developer;Full+Stack+Developer;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ovijet">
+    <img src="https://komarev.com/ghpvc/?username=ovijet&label=Profile%20Views&color=6c5ce7&style=flat" />
+  </a>
+  <img src="https://img.shields.io/github/followers/ovijet?label=Followers&style=flat&color=6c5ce7" />
+  <img src="https://img.shields.io/github/stars/ovijet?label=Stars&style=flat&color=6c5ce7" />
+</p>
+
+---
+
+# 👋 Hi, I'm Ovijit Halder
+
+### 💻 Frontend Developer | MERN Stack Developer
+
+I'm a passionate **Frontend Developer with 1 year of hands-on
+experience** building modern, responsive and user-friendly web
+applications.
+
+I specialize in **React.js, Next.js, JavaScript, TypeScript and
+Tailwind CSS**, with practical experience in **Node.js, Express.js,
+MongoDB and PostgreSQL**.
+
+I enjoy turning ideas into real-world applications with clean UI,
+scalable code and a great user experience.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer with 1 year of experience
-- ⚛️ Specialized in React.js & Next.js
-- 🛠️ Experienced with Node.js, Express.js & MongoDB
-- 🎨 Love building clean and responsive UI
-- 🔐 Experience with Authentication & REST APIs
-- 🚀 Deploying applications with Vercel
-- 📚 Continuously learning and improving my development skills
-- 📍 Based in Bangladesh
+- 💼 **1 Year of Hands-on Development Experience**
+- ⚛️ Specialized in **React.js & Next.js**
+- 🧑‍💻 MERN Stack Developer
+- 🎨 Love building modern & responsive UI
+- 🔗 Experienced in REST API integration
+- 🔐 Authentication & Authorization
+- 🗄️ MongoDB & PostgreSQL
+- 💳 Payment integration with Stripe
+- 🚀 Deployment with Vercel
+- 🧪 API testing with Postman
+- 🌱 Currently improving my Full Stack Development skills
+- 🤝 Open to collaboration and exciting opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
-HTML5 • CSS3 • JavaScript • TypeScript  
-React.js • Next.js • Tailwind CSS • Bootstrap • HeroUI
+## 🎨 Frontend
 
-### Backend
-Node.js • Express.js • MongoDB • REST API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
+</p>
 
-### Authentication & Database
-JWT • Better Auth • MongoDB • PostgreSQL • Prisma
+## ⚙️ Backend
 
-### Tools
-Git • GitHub • VS Code • Postman • Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" />
+</p>
 
----
+## 🗄️ Database & ORM
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&perline=8" />
+</p>
 
-### 📚 LessonVault
-A full-stack learning platform with free and premium lessons,
-authentication, payments and user/admin dashboards.
+## 🔐 Authentication & Security
 
-**Tech:** Next.js, React, Node.js, Express, MongoDB, Stripe
+<p align="center">
 
-🔗 [Live Demo](https://lesson-vault-client-ten.vercel.app/)  
-🔗 [GitHub](https://github.com/ovijet/lesson-vault-client)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
+![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge)
 
-### 📚 StudyNook
-A library/study-room booking platform where users can view
-available slots and make bookings.
+</p>
 
-**Tech:** Next.js, React, Express, MongoDB, Better Auth
+## 🧰 Tools & Platforms
 
-🔗 [Live Demo](https://a9-study-nook.vercel.app/)  
-🔗 [GitHub](https://github.com/ovijet/A9-studyNook-)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 💡 What I Can Do
 
-![Ovijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovijet&show_icons=true&theme=dark)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: ovijethalder143@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ovijit-halder-1b26a9252/
-- 🌐 Portfolio: https://my-portfolio-nine-virid-85.vercel.app/
-- 💻 GitHub: https://github.com/ovijet
-
----
-
-⭐ Feel free to explore my repositories and projects.
+```text
+✔ Responsive Web Design
+✔ React.js Development
+✔ Next.js Development
+✔ REST API Development
+✔ Full Stack Web Applications
+✔ Authentication & Authorization
+✔ CRUD Applications
+✔ MongoDB Database Integration
+✔ PostgreSQL & Prisma
+✔ Payment Integration
+✔ API Integration
+✔ Dashboard Development
+✔ Admin Panel Development
+✔ Vercel Deployment
