@@ -1,113 +1,251 @@
----
+<!-- ===================== HEADER ===================== -->
 
-# 🚀 Featured Projects
+<p align="center">
+  <img
+    src="https://i.ibb.co.com/TBSmkbJf/Banner-ovi.png"
+    alt="Ovijit Halder GitHub Banner"
+    width="100%"
+  />
+</p>
 
-## 📚 LessonVault
+<!-- ===================== INTRO ===================== -->
 
-A full-stack learning platform with free and premium lessons, authentication, payment integration and user/admin dashboards.
+<h1 align="center">
+  Hi 👋, I'm Ovijit Halder
+</h1>
 
-**Tech:** Next.js, React, Tailwind CSS, Express.js, MongoDB, Better Auth, Stripe
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=4834D4&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Next.js+Developer"
+    alt="Typing SVG"
+  />
+</p>
 
-🔗 **Live:** https://lesson-vault-client-ten.vercel.app/  
-🔗 **GitHub:** https://github.com/ovijet/lesson-vault-client
+<p align="center">
+  <b>Building modern, scalable & user-friendly web applications.</b>
+</p>
 
----
+<p align="center">
+  Frontend Developer with <b>1 year of hands-on experience</b>
+  building modern web applications using React.js, Next.js,
+  Node.js, Express.js and MongoDB.
+</p>
 
-## 📖 StudyNook
+<br />
 
-A library study-room booking platform where users can view available slots and reserve study rooms while preventing double bookings.
+<p align="center">
+  <a href="https://my-portfolio-nine-virid-85.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-130f40?style=for-the-badge" />
+  </a>
 
-**Tech:** Next.js, React, Tailwind CSS, HeroUI, Express.js, MongoDB, Better Auth
+  <a href="https://www.linkedin.com/in/ovijit-halder-1b26a9252/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-4834d4?style=for-the-badge" />
+  </a>
 
-🔗 **Live:** https://a9-study-nook.vercel.app/  
-🔗 **GitHub:** https://github.com/ovijet/A9-studyNook-
-
----
-
-## 🌾 KrishiHaat
-
-A Bangla agriculture-focused platform designed to connect farmers, buyers and agricultural service providers.
-
-**Tech:** Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB
-
-🚧 **Currently Developing**
-
----
-
-# 💼 Experience
-
-### Frontend Developer
-**1 Year Hands-on Experience**
-
-- Developed responsive and user-friendly web applications.
-- Built reusable React.js components.
-- Developed modern interfaces using Next.js and Tailwind CSS.
-- Integrated REST APIs with frontend applications.
-- Worked with authentication and authorization systems.
-- Built CRUD-based applications and dashboards.
-- Integrated MongoDB and PostgreSQL databases.
-- Implemented payment functionality using Stripe.
-- Deployed applications using Vercel.
-- Tested APIs using Postman.
+  <a href="mailto:ovijethalder143@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact-686de0?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-# 🎓 Education
+## 👨‍💻 About Me
 
-### Jessore Polytechnic Institute
-**Diploma in Computer Science & Engineering**
+```js
+class Developer {
 
-**CGPA:** 3.25
+  constructor() {
+    this.name = "Ovijit Halder";
+    this.role = "Frontend / MERN Stack Developer";
+    this.experience = "1 Year";
+    this.location = "Bangladesh";
+  }
 
-### Noapara Govt. High School
+  skills() {
+    return {
+      frontend: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "Tailwind CSS"
+      ],
 
-**SSC GPA:** 4.25
+      backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL",
+        "Prisma"
+      ],
+
+      tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman",
+        "Vercel"
+      ]
+    };
+  }
+
+  focus() {
+    return [
+      "Responsive UI",
+      "REST API Development",
+      "Authentication",
+      "Full-Stack Applications",
+      "Clean & Maintainable Code"
+    ];
+  }
+
+  goal() {
+    return "Build scalable and real-world web applications 🚀";
+  }
+}
+
+const ovijit = new Developer();
+```
 
 ---
 
-# 📚 Training
+## 🛠️ Tech Stack
 
-### Programming Hero — Complete Web Development Course
+### 🎨 Frontend
 
-**Batch 13**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
 
-Successfully completed the Complete Web Development Course and achieved **BlackBelt Web Developer** recognition.
+### ⚙️ Backend & Database
 
-### Technologies Learned
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
 
-`HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express.js` `MongoDB`
+### 🔐 Authentication & Tools
 
----
-
-# 🌱 Currently Learning
-
-- TypeScript
-- Advanced Next.js
-- PostgreSQL
-- Prisma
-- Backend Architecture
-- API Security
-- System Design
-- Performance Optimization
-- Clean Code & Scalable Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
 
 ---
 
-# 🧠 Development Approach
+## 🚀 Featured Projects
 
-```text
-💡 Understand the Problem
-        ↓
-🎨 Design the UI
-        ↓
-⚛️ Build Reusable Components
-        ↓
-🔗 Integrate APIs
-        ↓
-🗄️ Connect Database
-        ↓
-🔐 Implement Authentication
-        ↓
-🧪 Test & Debug
-        ↓
-🚀 Deploy
+### 📚 LessonVault
+
+A full-stack learning platform with free and premium lessons.
+
+**Tech Stack**
+
+`Next.js` `Express.js` `MongoDB` `Better Auth` `Stripe`
+
+<p>
+  <a href="https://lesson-vault-client-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-4834d4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ovijet/lesson-vault-client">
+    <img src="https://img.shields.io/badge/GitHub-Repository-130f40?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📖 StudyNook
+
+A study room booking platform where users can browse rooms and reserve available slots.
+
+**Tech Stack**
+
+`Next.js` `React` `Express.js` `MongoDB` `HeroUI` `Better Auth`
+
+<p>
+  <a href="https://a9-study-nook.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-4834d4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ovijet/A9-studyNook-">
+    <img src="https://img.shields.io/badge/GitHub-Repository-130f40?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ovijet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ovijet&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovijet&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ovijet&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ovijit-halder-1b26a9252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ovijethalder143@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://my-portfolio-nine-virid-85.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-130f40?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Building ideas into real-world web applications.</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:130f40,50:4834d4,100:686de0&height=120&section=footer"
+    width="100%"
+  />
+</p>
